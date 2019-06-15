@@ -190,7 +190,7 @@ def aorta(filename,attribute,maxl,minl,v1,v2,v3,lb,sb):
 print('Staring process. . . . ') 
 print('About - Created by Kush Pandya')
 print('If found glitch please please report on\n  Email-kpandya7@gmail.com    Contact No-9913515325')
-print('GITHUB repo will be made availabe before 20th July 2019')
+print('GITHUB issue can also be raised on :- https://github.com/kushjayankpandya/ThunderBird/issues')
 
 
 

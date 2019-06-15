@@ -12,7 +12,7 @@ import datetime
 root.title("Heart Beat")
 filename=''
 
-apikey='AIzaSyDa99A250TG7PwndrRSkCTtT0DanC7CEws'
+apikey='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'    # Use google Cloud API console to generate a javamaps api for your project 
 start=0
 stop=0
 lb=0
@@ -35,7 +35,7 @@ def circle(df,color,r,gmap,types):
 
 
 def geocoding(a):
-	response = requests.get(f'https://geocoder.api.here.com/6.2/geocode.json?app_id=oJyqdIJERLCpc3kWtD22&app_code=5a74H7nwIAseqQ5K_hb9ZQ&searchtext={a}')
+	response = requests.get(f'https://geocoder.api.here.com/6.2/geocode.json?app_id=\{your api key\}&app_code=\{yourapicode\}&searchtext={a}')
 	resp_json_payload=response.json()
 	print(a,end=' ')
 	try:

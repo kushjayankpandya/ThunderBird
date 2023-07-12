@@ -1,7 +1,5 @@
 
-# USAGE OF THUNDERBIRD
-
-# A Map visualization software created for SOCIALEE
+# Usage of Thunderbird a geo - visualization software created for SOCIALEE
 
 # by Kush Pandya(Summer Intern).
 

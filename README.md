@@ -1,22 +1,12 @@
-##
+
 # USAGE OF THUNDERBIRD
 
-# A Map
-
-# visualization
-
-# software created for
-
-# SOCIALEE
+# A Map visualization software created for SOCIALEE
 
 # by Kush Pandya(Summer Intern).
 
 ![](RackMultipart20230712-1-bbwy03_html_dfae9194110e64d2.jpg)
 
-###
-
-
-###
 # **How to REPORT a Bug**
 
 Sometimes the software may not behave as it should in that case for a query or a bug please use the following ways to report/resolve it:-
@@ -64,11 +54,6 @@ Now save the file to the appropriate folder. The output of the software will be 
 Now open the software and produced with the 2 screens.
 
 A console and a GUI(Graphical User Interface). ![](RackMultipart20230712-1-bbwy03_html_1cdb95d7c9b91764.png)
-
-##
-
-
-##
 
 
 ## **Step 4.**

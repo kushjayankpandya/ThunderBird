@@ -19,18 +19,17 @@ Sometimes the software may not behave as it should in that case for a query or a
 
 NOTE:- Only Socialee employees will only be allowed to report through Call or and Email all other users are requested use GitHub for reporting it.
 
-###
 # **HOW TO INSTALL**
 
 1. Download the executable software for Socialee from this link:- [https://drive.google.com/drive/folders/1GShwnUkwHLaeDMs7gNUKI0OGdqAR\_6LW?usp=sharing](https://drive.google.com/drive/folders/1GShwnUkwHLaeDMs7gNUKI0OGdqAR_6LW?usp=sharing)
 
 Size - 215 MB
 
-1. Store the folder at the place where you like to store.
+2. Store the folder at the place where you like to store.
 
-1. Now to get the executable file please Follow the specific order. ThunderBird \>\> dist \>\>thunderbird
+3. Now to get the executable file please Follow the specific order. ThunderBird \>\> dist \>\>thunderbird
 
-1. Now search for "thunderbird.exe" and create a shortcut for it. Just click on the shortcut and rename it to your accordance,the software will start working.
+4. Now search for "thunderbird.exe" and create a shortcut for it. Just click on the shortcut and rename it to your accordance,the software will start working.
 
 ###
 # **HOW TO USE IT**
